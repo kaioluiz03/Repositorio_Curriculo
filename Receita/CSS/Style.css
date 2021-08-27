@@ -1,0 +1,35 @@
+h1 {
+    text-transform: uppercase;
+    color: teal;
+}
+
+h2 {
+    color: turquoise;
+    text-decoration: underline;
+}
+
+p {
+    color: steelblue;
+    font-style: italic;
+}
+
+body {
+    text-align: center;
+    background-color: papayawhip;
+}
+
+form {
+    background-color: turquoise;
+    border-style: outset;
+    border-width: 0,5vh;
+    border-color: black;
+}
+
+input {
+    width: 50vh;
+}
+
+
+#email {
+    margin-right: 13px;
+}
